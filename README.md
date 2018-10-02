@@ -1,3 +1,3 @@
 # sorting-algorithms
 Some sorting algorithms implemented in C++.
-Uses CSV files.
+All use CSV files.
